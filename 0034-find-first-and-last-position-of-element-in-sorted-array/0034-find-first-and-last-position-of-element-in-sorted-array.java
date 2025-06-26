@@ -1,40 +1,43 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] ans = {-1, -1};
-
-        // First occurrence
-        ans[0] = binarySearch(nums, target, true);
-        // Last occurrence
-        ans[1] = binarySearch(nums, target, false);
-
-        return ans;
+       int start = findFirst(nums, target);
+       int end = findLast(nums, target);
+       return new int[]{start, end}; 
     }
 
-    // Helper method to find first or last position
-    static int binarySearch(int[] nums, int target, boolean findFirst) {
-        int s = 0, e = nums.length - 1;
-        int ans = -1;
+    //find first occurrence of target
+    private int findFirst(int[] nums, int target){
+        int low=0, high=nums.length-1, index=-1;
 
-        while (s <= e) {
-            int mid = s + (e - s) / 2;
-
-            if (target > nums[mid]) {
-                s = mid + 1;
-            } else if (target < nums[mid]) {
-                e = mid - 1;
-            } else {
-                ans = mid;
-                // If finding first, shrink end to search left side
-                if (findFirst) {
-                    e = mid - 1;
-                } 
-                // If finding last, move start to search right side
-                else {
-                    s = mid + 1;
-                }
+        while(low<=high){
+            int mid = low +(high-low)/2;
+            if(nums[mid]==target){
+                index = mid;
+                high = mid-1;  //look more to left
+            }else if(nums[mid] < target){
+                low = mid+1;
+            }else{
+                high = mid-1;
             }
         }
+        return index;
+    }
+ 
+    //Find the last occurremce of target
+    private int findLast(int[] nums, int target){
+        int low=0, high=nums.length-1, index=-1;
 
-        return ans;
+        while(low<=high){
+            int mid = low +(high-low)/2;
+            if(nums[mid]==target){
+                index = mid;
+                low = mid+1;  //look more to left
+            }else if(nums[mid] < target){
+                low = mid+1;
+            }else{
+                high = mid-1;
+            }
+        }
+        return index;
     }
 }
