@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -95,5 +98,6 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
