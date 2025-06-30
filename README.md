@@ -62,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
@@ -93,6 +94,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0543-diameter-of-binary-tree) |
+| [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0543-diameter-of-binary-tree) |
+| [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
@@ -123,6 +126,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0543-diameter-of-binary-tree) |
+| [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
