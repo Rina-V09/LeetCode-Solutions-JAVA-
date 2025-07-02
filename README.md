@@ -15,6 +15,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1036-rotting-oranges) |
 | [1137-height-checker](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1137-height-checker) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -61,6 +62,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0200-number-of-islands](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1036-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
