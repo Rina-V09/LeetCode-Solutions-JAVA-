@@ -70,11 +70,13 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0547-number-of-provinces) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
