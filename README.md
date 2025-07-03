@@ -66,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0013-roman-to-integer) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -173,6 +174,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0013-roman-to-integer) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3618-find-the-original-typed-string-ii) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
