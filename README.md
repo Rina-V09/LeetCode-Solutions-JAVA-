@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0039-combination-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0813-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Two Pointers
 |  |
@@ -133,6 +134,7 @@
 | [0547-number-of-provinces](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0813-all-paths-from-source-to-target) |
 | [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -168,6 +170,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1036-rotting-oranges) |
 ## Enumeration
 |  |
@@ -197,6 +200,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0547-number-of-provinces) |
+| [0813-all-paths-from-source-to-target](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0813-all-paths-from-source-to-target) |
 ## Prefix Sum
 |  |
 | ------- |
