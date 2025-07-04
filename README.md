@@ -210,6 +210,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0013-roman-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -218,10 +219,12 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
