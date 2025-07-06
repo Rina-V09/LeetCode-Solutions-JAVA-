@@ -19,6 +19,7 @@
 | [1137-height-checker](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1137-height-checker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -186,6 +187,7 @@
 | [0013-roman-to-integer](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0013-roman-to-integer) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -236,4 +238,8 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
