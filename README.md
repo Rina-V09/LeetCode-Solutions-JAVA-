@@ -79,6 +79,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0279-perfect-squares) |
 | [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -173,6 +174,7 @@
 | [0200-number-of-islands](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0733-flood-fill) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0013-roman-to-integer) |
+| [0279-perfect-squares](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0279-perfect-squares) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Topological Sort
