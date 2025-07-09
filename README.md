@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0074-search-a-2d-matrix) |
+| [0152-maximum-product-subarray](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0200-number-of-islands) |
@@ -84,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0279-perfect-squares) |
 | [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1263-number-of-dice-rolls-with-target-sum) |
