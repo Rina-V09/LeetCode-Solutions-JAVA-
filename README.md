@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0079-word-search) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0813-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -253,6 +255,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0078-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
