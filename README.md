@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0162-find-peak-element) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0079-word-search) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0813-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Two Pointers
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1036-rotting-oranges) |
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0013-roman-to-integer) |
+| [0079-word-search](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0091-decode-ways) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -136,6 +140,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0101-symmetric-tree) |
