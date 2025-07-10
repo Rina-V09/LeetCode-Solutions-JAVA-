@@ -57,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
@@ -271,4 +272,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
