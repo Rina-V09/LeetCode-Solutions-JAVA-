@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0079-word-search) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0079-word-search) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0813-all-paths-from-source-to-target) |
