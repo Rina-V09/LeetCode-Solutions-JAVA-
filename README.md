@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0074-search-a-2d-matrix) |
@@ -52,6 +53,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0078-subsets) |
@@ -80,6 +82,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0200-number-of-islands) |
@@ -219,6 +222,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0037-sudoku-solver) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
