@@ -24,6 +24,7 @@
 | [0907-koko-eating-bananas](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1036-rotting-oranges) |
 | [1137-height-checker](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1137-height-checker) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1137-height-checker) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -78,6 +80,7 @@
 | [0162-find-peak-element](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0907-koko-eating-bananas) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -111,6 +114,7 @@
 | [0518-coin-change-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0518-coin-change-ii) |
 | [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3618-find-the-original-typed-string-ii) |
