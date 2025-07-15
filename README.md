@@ -9,6 +9,7 @@
 | [0037-sudoku-solver](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0078-subsets) |
@@ -42,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0056-merge-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1137-height-checker) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1352-maximum-profit-in-job-scheduling) |
