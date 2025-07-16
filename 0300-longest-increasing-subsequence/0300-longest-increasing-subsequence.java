@@ -1,34 +1,21 @@
 class Solution {
-    public int lcs(int[] nums, int[]res){
-        int n=nums.length;
-        int m=res.length;
-        int[][] dp = new int[n+1][m+1];
-        for(int i=1;i<=n; i++){
-            for(int j=1; j<=m ; j++){
-                if(nums[i-1]==res[j-1]){
-                    dp[i][j]=dp[i-1][j-1]+1;
-                }else{
-                    dp[i][j] = Math.max(dp[i][j-1],dp[i-1][j]);
-                }
+    public int lengthOfLIS(int[] nums) {
+    int[] res = new int[nums.length];
+    int n = nums.length;
+    int[] dp = new int[n];
+    int maxLength = 1;
+
+    for (int i = 0; i < n; i++) {
+        dp[i] = 1;  // every element is a subsequence of length 1
+        for (int j = 0; j < i; j++) {
+            if (nums[i] > nums[j]) {
+                dp[i] = Math.max(dp[i], dp[j] + 1);
             }
         }
-        return dp[n][m];
+        res[i] = dp[i]; // optional: fill the result array
+        maxLength = Math.max(maxLength, dp[i]);
     }
-    public int lengthOfLIS(int[] nums) {
-        Set<Integer> set = new HashSet<>();
 
-        for(int i=0; i<nums.length; i++){
-            set.add(nums[i]);
-        }
-        int[] res = new int[set.size()];
-        int i=0;
-
-        for(int ele:set){
-            res[i]=ele;
-            i++;
-        }
-        Arrays.sort(res);
-        int result = lcs(nums, res);
-        return result;
-    }
+    return maxLength;
+}
 }
