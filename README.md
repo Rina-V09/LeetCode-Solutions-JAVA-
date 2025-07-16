@@ -108,6 +108,7 @@
 | [0079-word-search](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0091-decode-ways) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1250-longest-common-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1250-longest-common-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3396-valid-word](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3396-valid-word) |
@@ -123,6 +124,7 @@
 | [0322-coin-change](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0518-coin-change-ii) |
 | [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
+| [1250-longest-common-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
