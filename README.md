@@ -19,6 +19,7 @@
 | [0162-find-peak-element](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -85,6 +86,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0907-koko-eating-bananas) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -121,6 +123,7 @@
 | [0152-maximum-product-subarray](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0174-dungeon-game) |
 | [0279-perfect-squares](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0518-coin-change-ii) |
 | [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
