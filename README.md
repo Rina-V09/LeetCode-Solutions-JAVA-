@@ -36,6 +36,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -134,6 +135,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -261,6 +263,7 @@
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2479-meeting-rooms-iii) |
 ## Sliding Window
 |  |
