@@ -28,6 +28,7 @@
 | [0907-koko-eating-bananas](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1036-rotting-oranges) |
 | [1137-height-checker](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1137-height-checker) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -114,6 +115,7 @@
 | [0091-decode-ways](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0091-decode-ways) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1250-longest-common-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3396-valid-word](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3396-valid-word) |
@@ -205,6 +207,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0813-all-paths-from-source-to-target) |
 | [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -325,4 +328,8 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
