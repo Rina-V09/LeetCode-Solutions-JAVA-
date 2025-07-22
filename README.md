@@ -116,6 +116,7 @@
 | [0091-decode-ways](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0091-decode-ways) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1250-longest-common-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2140-longest-subsequence-repeated-k-times) |
