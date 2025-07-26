@@ -81,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -113,6 +114,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0013-roman-to-integer) |
 | [0079-word-search](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0091-decode-ways) |
@@ -130,6 +132,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0174-dungeon-game) |
