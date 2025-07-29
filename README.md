@@ -44,6 +44,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -104,6 +105,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Matrix
 |  |
 | ------- |
@@ -293,6 +295,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Union Find
 |  |
@@ -329,6 +332,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
