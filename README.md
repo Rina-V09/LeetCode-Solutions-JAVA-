@@ -26,6 +26,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1036-rotting-oranges](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1036-rotting-oranges) |
 | [1137-height-checker](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1137-height-checker) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -146,6 +147,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0518-coin-change-ii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1008-binary-tree-cameras](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1008-binary-tree-cameras) |
 | [1250-longest-common-subsequence](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/1263-number-of-dice-rolls-with-target-sum) |
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0078-subsets) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
