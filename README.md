@@ -47,6 +47,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2689-rearranging-fruits](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -66,6 +67,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2689-rearranging-fruits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2689-rearranging-fruits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -285,6 +288,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2479-meeting-rooms-iii) |
+| [2689-rearranging-fruits](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rina-V09/LeetCode-Solutions-JAVA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
