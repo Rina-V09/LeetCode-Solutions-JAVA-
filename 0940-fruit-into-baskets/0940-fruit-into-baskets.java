@@ -1,35 +1,28 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        if(fruits.length <= 2) return fruits.length;
-        int[] a = { fruits[0], -1 };
-        int[] count = { 1, 0 };
-        int max = 1;
-        int mid = 0;
+        Map<Integer,Integer> basket = new HashMap<>();
 
-        for(int i = 1; i < fruits.length; i++) {
-            int val = fruits[i];
-            if(a[0] == val) count[0] += 1;
-            else if(a[1] == val) count[1] += 1;
-            else if(a[1] == -1) {
-                a[1] = val;
-                count[1] = 1;
-            } else {
-                if(fruits[i - 1] == a[0]) {
-                    a[1] = val;
-                    count[1] = 1;
-                    count[0] = i - mid;
-                } else {
-                    a[0] = val;
-                    count[0] = 1;
-                    count[1] = i - mid;
+        int left = 0;
+        int right = 0;
+        int maxFruit = 0;
+
+        for(right = 0; right<fruits.length; right++){
+            int currCount = basket.getOrDefault(fruits[right],0);
+            basket.put(fruits[right], currCount+1);
+
+            while(basket.size()>2){
+                int fruitCount = basket.get(fruits[left]);
+
+                if(fruitCount == 1){
+                    basket.remove(fruits[left]);
                 }
+                else{
+                    basket.put(fruits[left],fruitCount-1);
+                }
+                left++;
             }
-
-            if(fruits[i -1] != fruits[i]) mid = i;
-
-            if(max < (count[0] + count[1])) max = count[0] + count[1];
+            maxFruit = Math.max(maxFruit, right-left+1);
         }
-
-        return max;
+        return maxFruit;
     }
 }
