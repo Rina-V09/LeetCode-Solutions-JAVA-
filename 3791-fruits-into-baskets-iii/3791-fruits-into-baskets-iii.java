@@ -1,36 +1,55 @@
 class Solution {
     public int numOfUnplacedFruits(int[] fruits, int[] baskets) {
-        int n = baskets.length;
-        int N = 1;
-        while(N <= n) N <<= 1;
-        // Build the segment tree
-        int[] segTree = new int[N << 1];
-        for (int i = 0; i < n; i++)
-        segTree[N + i] = baskets[i];
-        for (int i = N - 1; i > 0; i--) 
-        segTree[i] = Math.max(segTree[2 * i], segTree[2 * i + 1]);
-        int count = 0;
-        for (int i = 0; i < n; ++i) {
-            int x = fruits[i];
-            int index = 1; // Start from the root of the segment tree
-            if (segTree[index] < x) {
-                count++;
-                continue;
-            }
-            // Query the first valid basket
-            while (index < N) {
-                if (segTree[index * 2] >= x) 
-                index *= 2;
-                else
-                index = index * 2 + 1;
-            }
-            // Mark the found basket as used and update the segment tree
-            segTree[index] = -1;
-            while (index > 1) {
-                index >>= 1;
-                segTree[index] = Math.max(segTree[2 * index], segTree[2 * index + 1]);
+        int n = fruits.length;
+        int[] segmentTree = new int[4 * n];
+
+        // Build segment tree
+        build(0, 0, n - 1, baskets, segmentTree);
+
+        int unplaced = 0;
+        for (int fruit : fruits) {
+            if (!querySegmentTree(0, 0, n - 1, segmentTree, fruit)) {
+                unplaced++;
             }
         }
-        return count;     
+
+        return unplaced;
+    }
+
+    private void build(int i, int l, int r, int[] baskets, int[] segmentTree) {
+        if (l == r) {
+            segmentTree[i] = baskets[l];
+            return;
+        }
+        int m = (l + r) / 2;
+
+        build(2 * i + 1, l, m, baskets, segmentTree);
+        build(2 * i + 2, m + 1, r, baskets, segmentTree);
+
+        segmentTree[i] = Math.max(segmentTree[2 * i + 1], segmentTree[2 * i + 2]);
+    }
+
+    private boolean querySegmentTree(int i, int l, int r, int[] segmentTree, int val) {
+        if (segmentTree[i] < val) {
+            return false; // No basket in this segment
+        }
+
+        if (l == r) {
+            segmentTree[i] = -1; // Mark basket as used
+            return true;
+        }
+
+        int mid = (l + r) / 2;
+        boolean placed;
+
+        if (segmentTree[2 * i + 1] >= val) {
+            placed = querySegmentTree(2 * i + 1, l, mid, segmentTree, val);
+        } else {
+            placed = querySegmentTree(2 * i + 2, mid + 1, r, segmentTree, val);
+        }
+
+        segmentTree[i] = Math.max(segmentTree[2 * i + 1], segmentTree[2 * i + 2]);
+
+        return placed;
     }
 }
