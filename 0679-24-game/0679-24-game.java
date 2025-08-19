@@ -1,41 +1,54 @@
 class Solution {
+    private static final double EPSILON = 0.1; // 0.01 or 0.001 will also work
+    // Tolerance for floating-point comparison. To avoid floating point precission errors 
+
     public boolean judgePoint24(int[] cards) {
         List<Double> nums = new ArrayList<>();
-        for (int card : cards) nums.add((double) card);
+        for (int card : cards) {
+            nums.add((double) card);
+        }
         return solve(nums);
     }
 
-    private boolean solve(List<Double> nums) {
-        if (nums.size() == 1) {
-            return Math.abs(nums.get(0) - 24.0) < 1e-6;
+    private boolean solve(List<Double> cards) {
+        if (cards.size() == 1) {
+            return Math.abs(cards.get(0) - 24) <= EPSILON;
         }
 
-        int n = nums.size();
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+        for (int i = 0; i < cards.size(); i++) {
+            for (int j = 0; j < cards.size(); j++) {
                 if (i == j) continue;
 
-                List<Double> next = new ArrayList<>();
-                for (int k = 0; k < n; k++) {
-                    if (k != i && k != j) next.add(nums.get(k));
+                List<Double> temp = new ArrayList<>();
+                for (int k = 0; k < cards.size(); k++) {
+                    if (k != i && k != j) {
+                        temp.add(cards.get(k));
+                    }
                 }
 
-                double a = nums.get(i), b = nums.get(j);
-                List<Double> results = new ArrayList<>();
-                results.add(a + b);
-                results.add(a - b);
-                results.add(b - a);
-                results.add(a * b);
-                if (Math.abs(b) > 1e-6) results.add(a / b);
-                if (Math.abs(a) > 1e-6) results.add(b / a);
+                double a = cards.get(i);
+                double b = cards.get(j);
+                List<Double> possibleVals = new ArrayList<>();
+                possibleVals.add(a + b);
+                possibleVals.add(a - b);
+                possibleVals.add(b - a); //b-a is not required, our i and j for loop will take care of it
+                possibleVals.add(a * b);
 
-                for (double val : results) {
-                    next.add(val);
-                    if (solve(next)) return true;
-                    next.remove(next.size() - 1);
+                if (Math.abs(b) > 0.0) {
+                    possibleVals.add(a / b);
+                }
+                if (Math.abs(a) > 0.0) {
+                    possibleVals.add(b / a); //b/a is not required, our i and j for loop will take care of it
+                }
+
+                for (double val : possibleVals) {
+                    temp.add(val); // Do
+                    if (solve(temp)) return true; // Explore
+                    temp.remove(temp.size() - 1); // Undo
                 }
             }
         }
+
         return false;
     }
 }
