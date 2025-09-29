@@ -1,16 +1,20 @@
 class Solution {
     public int countNegatives(int[][] grid) {
-     int n = grid.length;
-     int m = grid[0].length;
-     int count=0;
+        int m = grid.length;
+        int n = grid[0].length;
+        
+        int row = m - 1;   //bottom-left
+        int col = 0;
+        int count = 0;
 
-     for(int i=0; i<n; i++){
-        for(int j=0; j<m; j++){
-            if(grid[i][j]<0){
-                count++;
+        while (row >= 0 && col < n) {
+            if (grid[row][col] < 0) {
+                count += (n - col);
+                row--; 
+            } else {
+                col++; 
             }
         }
-     }   
-     return count;
+        return count;
     }
 }
