@@ -1,40 +1,38 @@
+import java.util.*;
+
 class Solution {
-    private int n;
-    private void sortDiagonal(int row,int col,int[][] grid,boolean ascending){
-    List<Integer> list = new ArrayList<>();
-    int i=row;
-    int j=col;
-
-     while(i<n && j<n){
-            list.add(grid[i][j]);
-            i++;
-            j++;
-        }
-
-        if(ascending){
-            Collections.sort(list); //asscending
-        }else{
-            list.sort(Collections.reverseOrder());
-        }
-        i=row;
-        j=col;
-
-        for(int ls : list){
-            grid[i][j]=ls;
-            i++;
-            j++;
-        }
-    }
     public int[][] sortMatrix(int[][] grid) {
-        n = grid.length;
+        int n = grid.length;
+        Map<Integer, List<Integer>> map = new HashMap<>();
 
-        for(int row=0; row<n; row++){
-            sortDiagonal(row, 0, grid, false);
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                int key = i - j;
+                map.computeIfAbsent(key, k -> new ArrayList<>()).add(grid[i][j]);
+            }
         }
 
-        for(int col = 1; col<n; col++){
-            sortDiagonal(0,col,grid,true);
+        //Sort 
+        for (int key : map.keySet()) {
+            List<Integer> list = map.get(key);
+            if (key >= 0) {
+                list.sort(Collections.reverseOrder()); // des
+            } else {
+                Collections.sort(list); // asc
+            }
         }
+
+        // Place back elements
+        Map<Integer, Integer> index = new HashMap<>();
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                int key = i - j;
+                int idx = index.getOrDefault(key, 0);
+                grid[i][j] = map.get(key).get(idx);
+                index.put(key, idx + 1);
+            }
+        }
+
         return grid;
     }
 }
