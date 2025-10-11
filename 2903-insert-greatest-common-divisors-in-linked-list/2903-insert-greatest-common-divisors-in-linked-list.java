@@ -16,7 +16,9 @@ class Solution {
         ListNode curr = head.next;
 
         while (curr != null) {
-            int gcd = GCDHelper(prev.val, curr.val);
+            int a=prev.val;
+            int b=curr.val;
+            int gcd = GCDHelper(a,b);
             ListNode temp = new ListNode(gcd);
 
             prev.next = temp;
