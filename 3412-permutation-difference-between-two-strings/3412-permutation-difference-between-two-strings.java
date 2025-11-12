@@ -1,16 +1,13 @@
 class Solution {
     public int findPermutationDifference(String s, String t) {
-        int n = s.length();
-        int m = t.length();
-        int sum = 0;
-
-        for(int i=0; i<n;i++){
-            for(int j=0;j<m; j++){
-                if(s.charAt(i)==t.charAt(j)){
-                    sum +=Math.abs(i-j);
-                }
-            }
+        HashMap<Character, Integer> mp = new HashMap<>();
+        for (int i = 0; i < t.length(); i++) {
+            mp.put(t.charAt(i), i);
         }
-        return sum;
+        int res = 0;
+        for (int i = 0; i < s.length(); i++) {
+            res += Math.abs(i - mp.get(s.charAt(i)));
+        }
+        return res;
     }
 }
