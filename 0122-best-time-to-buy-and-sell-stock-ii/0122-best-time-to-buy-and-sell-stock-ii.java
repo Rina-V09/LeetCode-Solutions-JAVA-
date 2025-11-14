@@ -1,25 +1,11 @@
 class Solution {
-    public int maxProfit(int[] arr) {
-        int totalProf = 0;
+    public int maxProfit(int[] prices) {
+        int sum = 0;
 
-        int min = arr[0],max = arr[0];
-
-        for(int i=1; i<arr.length; i++){
-            if(arr[i]>max){
-                max = arr[i];
-            }else if(arr[i]<max && max>min){
-                totalProf += (max-min);
-                max = arr[i];
-                min = arr[i];
-            }else if(arr[i]<min){
-                min = arr[i];
-                max = arr[i];
-            }
+        for(int i=1; i<prices.length; i++){
+            if(prices[i-1]<prices[i])
+            sum+=prices[i]-prices[i-1];
         }
-
-        if(max>min){
-            totalProf+= (max-min);
-        }
-        return totalProf;
+        return sum;
     }
 }
