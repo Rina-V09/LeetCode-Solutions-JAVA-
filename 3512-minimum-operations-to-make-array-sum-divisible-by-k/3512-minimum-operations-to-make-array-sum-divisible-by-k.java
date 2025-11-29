@@ -1,7 +1,6 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
         int arrSum = 0;
-        int count=0;
 
         for(int i:nums){
             arrSum+=i;
